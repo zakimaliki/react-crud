@@ -1,0 +1,46 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "baju",
+      "price": 120000,
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "name": "kemeja",
+      "price": 220000,
+      "stock": 22
+    },
+    {
+      "id": 3,
+      "name": "kaos",
+      "price": 320000,
+      "stock": 32
+    },
+    {
+      "name": "celana",
+      "price": "300000",
+      "stock": "12",
+      "id": 4
+    },
+    {
+      "name": "baju baru",
+      "price": "20000",
+      "stock": "12",
+      "id": 5
+    },
+    {
+      "name": "baju keren",
+      "price": "20000",
+      "stock": "100",
+      "id": 6
+    },
+    {
+      "name": "baju baru keren",
+      "price": "2000000",
+      "stock": "12",
+      "id": 7
+    }
+  ]
+}
